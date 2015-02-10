@@ -58,6 +58,18 @@ a, a:hover {
     text-decoration: none;
 }
 
+a, a:visited {
+  color: #3399FF !important;
+}
+
+a:hover, a:active {
+  color: #FF9966 !important;
+}
+
+.navbar a, .navbar a:visited, .navbar a:hover, .navbar a:active {
+  color: #FFF !important;
+}
+
 p {
     line-height: 30px;
     margin-bottom: 23px;
@@ -120,9 +132,10 @@ p {
 }
 
 .section {
-    background-color: #4ED15A;
-    color: #fff;
+  background-color: #2C6288;
+  color: #fff;
 }
+
 .circle-body {
  width: 150px;
 height: 150px;
