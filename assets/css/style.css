@@ -58,16 +58,12 @@ a, a:hover {
     text-decoration: none;
 }
 
-a, a:visited {
+.section-contains-urls a, .section-contains-urls a:visited {
   color: #3399FF !important;
 }
 
-a:hover, a:active {
+.section-contains-urls a:hover, .section-contains-urls a:active {
   color: #FF9966 !important;
-}
-
-.navbar a, .navbar a:visited, .navbar a:hover, .navbar a:active {
-  color: #FFF !important;
 }
 
 p {
