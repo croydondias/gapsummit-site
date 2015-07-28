@@ -54,18 +54,6 @@ h4{
     margin-top: 55px;
 }
 
-a, a:hover {
-    text-decoration: none;
-}
-
-.section-contains-urls a, .section-contains-urls a:visited {
-  color: #3399FF !important;
-}
-
-.section-contains-urls a:hover, .section-contains-urls a:active {
-  color: #FF9966 !important;
-}
-
 p {
     line-height: 30px;
     margin-bottom: 23px;
