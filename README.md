@@ -6,6 +6,3 @@ Temp hosting: [Dropbox](https://dl.dropboxusercontent.com/u/833721/gapsummit-sit
 For styling:
 - [Bootstrap](http://getbootstrap.com/components/) reference
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) reference
-
-xxx
-yyy
